@@ -8,10 +8,10 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : Chulapa 101    #default["repository_name"]
+title                   : Laura Mansier    #default["repository_name"]
 title_separator         :     #default [" | "]
-subtitle                : Chulapa Jekyll Theme starter pack    #default [your-repository-tagline]  
-description             : Chulapa Jekyll Theme starter pack #default [your-repository-tagline]
+subtitle                : PhD Candidate    #default [your-repository-tagline]  
+description             : PhD Candidate #default [your-repository-tagline]
 url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]
@@ -19,14 +19,14 @@ timezone                :     #"Europe/Madrid ,see https://jekyllrb.com/docs/con
 
 # SEO
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
-twitter_site            :     #Avoid @
+twitter_site            :  https://twitter.com/lauramansier   #Avoid @
 author:
-  name                  :  Your Name   # Name Surname Company
+  name                  :  Laura Mansier   # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
-  location              :  "Madrid, Spain"   # New York, USA 
+  location              :  "Wageningen, The Netherlands"   # New York, USA 
 #  links:                
-#    - url:  #A link or email: https://twitter.com/jack, mail@example.com
-#      icon: # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
+    - url: lauramansier@gmail.com #A link or email: https://twitter.com/jack, mail@example.com
+     icon: "My personal email" # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
 #    - url:  # Another link
 #      icon: # Anothet FontAwesome code
 
