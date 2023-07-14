@@ -98,7 +98,7 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Research # Label
-    url     : /Aboutme/ # url	
+    url     : /Research # url	
   - title   : Publications # Label
     url     : /Aboutme/ # url	
   - title   : CV
