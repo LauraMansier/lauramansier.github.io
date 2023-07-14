@@ -131,7 +131,7 @@ footer:
       icon: fab fa-twitter
       url: https://twitter.com/lauramansier
     - label: Email
-      icon: <i class="fa-regular fa-envelope"></i>
+      icon: fa-regular fa-envelope
       url: lauramansier@gmail.com
 copyright: # default is © <year> <name> 
   
