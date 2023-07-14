@@ -122,15 +122,15 @@ navbar:
 #    - title: # Child label		
 #      url  : # child url	
 #Social links to be placed on your site footer
-#footer:
-#  links:
-#    - label : Repo on Github # Label
-#      icon  : fab fa-github # Fontawesome 5 icon
-#     url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
-#    - label: "RSS"
-#      icon: "fa fa-rss"
-#      url:  "./atom.xml"
-  copyright: # default is © <year> <name> 
+footer:
+  links:
+    - label: LinkedIn
+      icon: <i class="fa-brands fa-linkedin"></i>
+      url: https://www.linkedin.com/in/laura-mansier/
+    - label: Twitter
+      icon: fab fa-twitter
+      url: https://twitter.com/lauramansier
+copyright: # default is © <year> <name> 
   
 # C. Theme Settings
 # Google Fonts https://fonts.google.com/, add as many as you need
