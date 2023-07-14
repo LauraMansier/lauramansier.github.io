@@ -1,7 +1,7 @@
 ---
 title: 'Illustrations'
 subtitle: 'Info graphics and project design'
-permalink: /Research
+permalink: /Illustrations
 header_type: hero
 header_img: /Pictures/Banner1.png
 ---
