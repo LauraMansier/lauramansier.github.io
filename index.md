@@ -7,7 +7,8 @@ subtitle: PhD Candidate
 
 **Work in progress. Please come back at a later time.**
 
-![alt text](Pictures/Foto Laura 1.jpeg)
+<img src="Pictures/Foto Laura 1.jpeg" width="200" height="100">
+#![alt text](Pictures/Foto Laura 1.jpeg)
 
 I am a PhD candidate working at the Evolutionary and Population Biology Department within the Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam.
 
