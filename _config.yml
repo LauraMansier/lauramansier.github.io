@@ -149,7 +149,7 @@ chulapa-skin:
   skin         : minty # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
   vars          :    
-    primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
+    primary     : "#D9F0FC" #default ["#007bff"] - Bootstrap blue
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
