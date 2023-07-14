@@ -24,7 +24,7 @@ author:
   name                  :  Laura Mansier   # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Wageningen, The Netherlands"   # New York, USA 
-#  links:                
+  links:                
     - url: lauramansier@gmail.com #A link or email: https://twitter.com/jack, mail@example.com
      icon: "My personal email" # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
 #    - url:  # Another link
