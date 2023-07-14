@@ -98,7 +98,7 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : About me # Label
-    url     : /Aboutme/ # url	
+    url     : /Aboutme/Aboutme.md # url	
   - title   : CV
     url     : /CV
 #  - title   : Projects
