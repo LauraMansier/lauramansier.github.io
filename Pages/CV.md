@@ -1,5 +1,6 @@
 ---
 title: 'CV'
+subtitle: 'Academic'
 permalink: /CV
 header_type: hero
 header_img: /Pictures/Banner1.png
