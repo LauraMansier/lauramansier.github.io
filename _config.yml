@@ -26,7 +26,7 @@ author:
   location              :  "Wageningen, The Netherlands"   # New York, USA 
   links:                
     - url: lauramansier@gmail.com #A link or email: https://twitter.com/jack, mail@example.com
-     icon: far fa-envelope # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
+   #  icon: "far fa-envelope" # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
 #    - url:  # Another link
 #      icon: # Anothet FontAwesome code
 
