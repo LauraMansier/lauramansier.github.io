@@ -3,7 +3,7 @@ layout: default
 title: Laura Mansier
 header_type: hero
 subtitle: PhD Candidate
-header_img: <img src="Pictures/Banner.png">
+header_img: Pictures/Banner.png
 ---
 
 **Work in progress. Please come back at a later time.**
