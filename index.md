@@ -4,7 +4,7 @@ title: Laura Mansier
 header_type: hero
 subtitle: PhD Candidate
 ---
-
+https://github.com/LauraMansier/lauramansier.github.io/blob/3499a6cb9d13a4a9a53b37a6a02b31f467890a98/Pictures/Foto%20Laura%201.jpeg
 Work in progress. Please come back at a later time.
 
 I am a PhD candidate working at the Evolutionary and Population Biology Department within the Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam.
