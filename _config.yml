@@ -98,7 +98,7 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : About me # Label
-    url     : /Aboutme/Aboutme.md # url	
+    url     : /Aboutme # url	
   - title   : CV
     url     : /CV
 #  - title   : Projects
@@ -133,9 +133,6 @@ footer:
     - label: Email
       icon: fa-regular fa-envelope
       url: lauramansier@gmail.com
-      - label: Research Gate
-      icon: fa-brands fa-researchgate
-      url: https://www.researchgate.net/profile/Laura-Mansier
 copyright: # default is © <year> <name> 
   
 # C. Theme Settings
