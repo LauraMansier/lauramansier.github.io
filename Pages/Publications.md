@@ -1,6 +1,7 @@
 ---
 title: 'Publications'
-permalink: /Publications
+subtitle: 'Peer-reviewed'
+permalink: /Research
 header_type: hero
 header_img: /Pictures/Banner1.png
 ---
