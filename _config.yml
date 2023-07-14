@@ -100,7 +100,7 @@ navbar:
   - title   : Research # Label
     url     : /Research # url	
   - title   : Publications # Label
-    url     : /Aboutme/ # url	
+    url     : /Publications # url	
   - title   : CV
     url     : /CV
 #  - title   : Projects
