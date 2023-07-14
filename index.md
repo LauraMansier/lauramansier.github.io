@@ -5,7 +5,7 @@ header_type: hero
 subtitle: PhD Candidate
 ---
 
-Work in progress. Please come back at a later time.
+**Work in progress. Please come back at a later time.**
 
 I am a PhD candidate working at the Evolutionary and Population Biology Department within the Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam.
 
