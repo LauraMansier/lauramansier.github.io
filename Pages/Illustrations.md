@@ -7,10 +7,9 @@ header_img: /Pictures/Banner1.png
 
 **Work in progress. Please come back at a later time.**
 
-  -
-    scope:
-      path: "/Pictures"
-    values:
-      image_col         : gallery
+{% assign externalgallery = "
+./Pictures/Banner.png,
+./Pictures/Banner1.png,
+./Pictures/Foto Laura 1.jpeg" %}
 
-{% include_cached snippets/masonry.html internal="gallery" %}
+{% include_cached snippets/masonry.html external=externalgallery %}
