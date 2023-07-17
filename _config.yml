@@ -103,7 +103,7 @@ navbar:
     url     : /Publications # url	
   - title   : CV
     url     : /CV
-  - title   : Design and Illustrations
+  - title   : Design
     child   :
       - title : Scientific design
          url   : /Scientific_design
