@@ -7,7 +7,8 @@ header_img: /Pictures/Banner1.png
 
 **Work in progress. Please come back at a later time.**
 
- scope:
+  -
+    scope:
       path: "/Pictures"
     values:
       image_col         : gallery
