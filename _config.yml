@@ -103,18 +103,16 @@ navbar:
     url     : /Publications # url	
   - title   : CV
     url     : /CV
-#  - title   : Projects
- #   child   :
-  #    - title : Tags
-   #     url   : /tags
-    #  - title : Categories
-     #   url   : /categories
+  - title   : Design and Illustrations
+    child   :
+      - title : Scientific design
+         url   : /Scientific_design
+      - title : Illustrations
+        url   : /Illustrations
       #- title : Archive
        # url   : /archive
       #- title : Current skin
        # url   : /current-skin
-  - title   : Illustrations
-    url     : /Illustrations
 #  - title   : Use this template
 #    url     : https://github.com/dieghernan/chulapa-101/generate
 #  - title   : # Label submenu
