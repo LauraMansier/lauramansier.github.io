@@ -106,7 +106,7 @@ navbar:
   - title   : Design
     child   :
       - title : Scientific design
-        url   : /Scientific_design
+        url   : /Scientific-design
       - title : Illustrations
         url   : /Illustrations
       #- title : Archive
