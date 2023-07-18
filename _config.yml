@@ -102,7 +102,7 @@ navbar:
   - title   : Publications # Label
     url     : /Publications # url	
   - title   : CV
-    url     : https://github.com/LauraMansier/online-cv
+    url     : /CV
   - title   : Design
     child   :
       - title : Scientific design
