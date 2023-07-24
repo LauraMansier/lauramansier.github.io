@@ -37,7 +37,7 @@ fa_v4_support: #Bool Add FontAwesome 4 support
 # gtag_id is the preferred option, see https://developers.google.com/analytics/devguides/collection/gtagjs/migration?hl=en
 # analytics provided for backwards compatibility
 gtag_id                 :  
-analytics_id            :  
+analytics_id            :  googlee6bd02eab3865608.html
 
 # Search providers
 # Available free search engines:
