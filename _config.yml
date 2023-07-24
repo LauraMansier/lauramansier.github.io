@@ -36,8 +36,8 @@ fa_v4_support: #Bool Add FontAwesome 4 support
 # Web tracking - Google services https://analytics.google.com/analytics/web/
 # gtag_id is the preferred option, see https://developers.google.com/analytics/devguides/collection/gtagjs/migration?hl=en
 # analytics provided for backwards compatibility
-gtag_id                 :  
-analytics_id            :  googlee6bd02eab3865608.html
+gtag_id                 :  'G-VQY48MMVRT'
+analytics_id            :  
 
 # Search providers
 # Available free search engines:
