@@ -8,11 +8,11 @@ header_img: /Pictures/Banner1.png
 
 **Peer-reviewed publications**
 
-Soon my first peer-reviewed publication can be found here.
+Soon my peer-reviewed publication can be found here.
 
 **Pre-prints**
 
-Almost finished.
+Soon my pre-prints can be found here.
 
 **Reports**
 
