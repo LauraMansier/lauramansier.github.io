@@ -6,15 +6,15 @@ header_type: hero
 header_img: /Pictures/Banner1.png
 ---
 
-#Peer-reviewed publications
+# Peer-reviewed publications
 
 Soon my peer-reviewed publication can be found here.
 
-#Pre-prints
+# Pre-prints
 
 Soon my pre-prints can be found here.
 
-#Reports
+# Reports
 
 **[D4.2 A functional landscape complementation model with recommendations for the Farmer Clusters involved]( https://www.researchgate.net/publication/370083771_D42_A_functional_landscape_complementation_model_with_recommendations_for_the_Farmer_Clusters_involved)**
 
