@@ -6,6 +6,7 @@ subtitle: PhD Candidate
 header_img: Pictures/Banner1.png
 ---
 
+
 <img src="Pictures/Foto Laura 1.jpeg" align="left" width="200" height="100">    
 &nbsp;&nbsp;&nbsp;&nbsp; I am a PhD candidate working at the [Evolutionary and Population Biology Department](https://ibed.uva.nl/content/research-departments/epb/epb.html) within the [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/), [University of Amsterdam](https://www.uva.nl/).
 
