@@ -22,4 +22,5 @@ Mansier, L. & Van Rijn, P. C. J. (2023). Deliverable D4.2 (D29) A functional Lan
 
 # Presentations and video abstracts
 
-{% include snippets/video.html id="S4ETpu23dck" provider="youtube" %}
+**Presentation at European Conference of Entomology in 2023*
+{% include snippets/video.html id="S4ETpu23dck" provider="youtube" video_res="hq2"%}
