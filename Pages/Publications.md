@@ -20,3 +20,6 @@ Soon my pre-prints can be found here.
 
 Mansier, L. & Van Rijn, P. C. J. (2023). Deliverable D4.2 (D29) A functional LandscapeComplementation model with recommendations for the Farmer Clusters involved for the EU-H2020 funded project FRAMEwork under Grant Agreement Number 862731. [DOI:10.5281/zenodo.7797526](https://zenodo.org/record/7797526). 
 
+# Presentations and video abstracts
+
+{% include snippets/video.html id="S4ETpu23dck" provider="youtube" %}
