@@ -7,7 +7,7 @@ last_modified_at: 2024-01-12
 tags: [investing, sustainability, money matters]
 author:
   name: Laura Mansier
-  avatar: /Pictures/Foto_Laura
+  avatar: /Pictures/Foto_Laura.jpeg
   location: Wageningen, The Netherlands
   links:                
     - url: https://github.com/LauraMansier
