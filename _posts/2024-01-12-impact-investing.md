@@ -57,5 +57,5 @@ With crowdfunding you are investing in startups together with a large number of 
 _Risk low, easy, hiiigh impact_
 
 Besides investing I still think it is really important to think what you spend your money on in day-to-day life. Literally any money you spend makes an impact. Spending your money on fast fashion or industrial animal products is not only funding the industries you might despise but it shows those industries that they can make money of their horrendous activies. You vote with your money! Often times we don't even need the products that we spend our money on, so you will save money!
-If you do want to shop, shop sustainbly or second hand but always think twice before you buy :)
+If you do want to shop, shop sustainbly or second hand but always think twice before you buy :).
 New things will only bring you happiness for a short amount of time but not buying things will bring us a healthy planet for the rest of our lives.
