@@ -11,6 +11,8 @@ Last year has not been a great year politically and it made me and the people ar
 
 _Impact investing can make the same amount of  profit as non-sustainable investing. So why not choose for the investments that make you feel good about the future?_
 
+<img src="Pictures/Foto Laura 1.jpeg" align="left" width="200" height="100">
+
 ## Before we start
 
 Although investing is a great way to use your money to make more money, it does come with a risk. Often risk and potential returns go hand in hand (high risk, high reward). Having a diverse portfolio of investments can spread out the risk (don't just bet on one horse). Additionally, I don't think investing is for short term gains. Long-term investing shows to be a better strategy than investing short-term. I would suggest to invest for at least five years but prefarably much longer (have patience to build that fortune). The cool thing about investing is compound interest which is the concept of making profit over profit if you invest long enough. I would also suggest to invest periodically (not one large sum at one time) as markets can shift and in this way you spread your risks.
