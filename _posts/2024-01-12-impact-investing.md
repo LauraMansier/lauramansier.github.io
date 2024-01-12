@@ -9,6 +9,8 @@ author:
   avatar: /Pictures/Foto Laura 1.jpeg
   location: Wageningen, The Netherlands
   links:                
+    - url: lauramansier@gmail.com
+      icon: fa-regular fa-envelope
     - url: https://github.com/LauraMansier
       icon: "fab fa-github"
     - url: https://www.linkedin.com/in/laura-mansier/
