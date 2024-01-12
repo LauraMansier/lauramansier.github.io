@@ -65,12 +65,12 @@ Crypto can have a huge negative environmental impact as many crypto currencies s
 That said crypto is still a high risk investment with very little other positive impacts, so only invest if you are a gambler or are a crypto nerd (I have a small amount of Ethereum cause I am a curious bitch).
 
 ## My fave: Crowdfunding
-_Risk high, high potential returns, low to moderate difficulty, hiiigh impact_
+_Risk high, high potential returns, low to moderate difficulty, high impact_
 
 With crowdfunding you are investing in startups together with a large number of other investors. The impact of crowdfunding can be high if you choose companies that have a positive environmental or social impact. You make money from the interest that you get periodically over a set time frame. The risk is high as startups often fail. Therefore, I would suggest to do your research well before investing and not to bet on only one horse. Normally, you can start investing from around 250 euros but it also depends on the crowdfunding project. You can not get your money back during the investment period, which can run for years! I use platforms such as **[Duurzaam Investeren](https://www.duurzaaminvesteren.nl/)** and **[Invesdor](https://www.invesdor.nl/#/)** to find crowdfunding projects. Before I invest, I read through their businessplans and search for their website to see if I trust my money with them. I prioritise companies that are led by women or marginalized groups.
 
 ## Also my fave: Spend your money wisely
-_Risk low, easy, hiiigh impact_
+_Risk low, easy, high impact_
 
 Besides investing, I still think it is really important to think about what you spend your money on in day-to-day life. Literally any money you spend makes an impact. Spending your money on fast fashion or industrial animal products is not only funding the industries you might despise but it shows those industries that they can make money of their horrendous activies. You vote with your money! Often times we don't even need the products that we spend our money on, so you will save money!
 If you do want to shop, shop sustainbly or second hand but always think twice before you buy :).
