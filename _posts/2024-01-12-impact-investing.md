@@ -7,7 +7,7 @@ last_modified_at: 2024-01-12
 tags: [investing, sustainability, money matters]
 author:
   name: Laura Mansier
-  avatar: /Pictures/Foto_Laura.jpeg
+  avatar: /Pictures_blog/Foto_Laura.jpeg
   location: Wageningen, The Netherlands
   links:                
     - url: https://github.com/LauraMansier
@@ -24,7 +24,7 @@ _Impact investing can make the same amount of  profit as non-sustainable investi
 
 ##### Returns of sustainable funds vs. other funds in the U.S 2019-2021
 
-<img src="Pictures/sustainable-vs-unsustainable-investing.png" title="Returns of sustainable funds vs. other funds in the U.S 2019-2021">
+<img src="Pictures_blog/sustainable-vs-unsustainable-investing.PNG" title="Returns of sustainable funds vs. other funds in the U.S 2019-2021">
 
 _Source: Girls just wanna have impact funds from **[Female Invest](https://www.femaleinvest.com/)**. Data from: dbSustainability - Are we at an inflection point for a major advance in ESG fund launches? September 2021. Fig. 9 (Source: Morningstar Direct, Deatsche Bank)_
 
