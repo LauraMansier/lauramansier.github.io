@@ -19,6 +19,7 @@ Although investing is a great way to use your money to make more money, it does 
 _Low risk, low interest, easy, moderate impact_
 
 The easiest option in my opinion is opening a savings account at a sustainable bank. Non-sustainable banks might invest your money into fossil fuels, weapons and industrial agriculture whilst sustainable banks use your money to invest in renewable energy and regenerative agriculture. Interest rates on savings accounts are relatively low but also low risk. You can start with any amount of money and you can take money out of your savings account in moments of unemployment or whenever an emergency occurs. Make sure you have 4 to 6 months of savings at all time for emergencies. You will hardly ever loose money with this option. 
+
 _Sustainable Dutch banks: **[Triodos Bank](https://www.triodos.nl/)** and **[ASN Bank](https://www.asnbank.nl/home.html)**_
 
 # Investing through funds at a bank
