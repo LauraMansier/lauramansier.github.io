@@ -12,7 +12,9 @@ Last year has not been a great year politically and it made me and the people ar
 _Impact investing can make the same amount of  profit as non-sustainable investing. So why not choose for the investments that make you feel good about the future?_
 
 ##### Returns of sustainable funds vs. other funds in the U.S 2019-2021
+
 <img src="Pictures/sustainable-vs-unsustainable-investing.png" title="Returns of sustainable funds vs. other funds in the U.S 2019-2021">
+
 _Source: Girls just wanna have impact funds from **[Female Invest](https://www.femaleinvest.com/)**. Data from: dbSustainability - Are we at an inflection point for a major advance in ESG fund launches? September 2021. Fig. 9 (Source: Morningstar Direct, Deatsche Bank)_
 
 ## Before we start
