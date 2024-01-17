@@ -64,7 +64,7 @@ ETFs are a bundle of stocks and bonds that have a specific theme (for example su
 _Risk high, high potential returns, moderate difficulty, low impact_
 
 Crypto can have a huge negative environmental impact as many crypto currencies such as bitcoin require computers to run 24/7. However, not all crypto are created equally, Ethereum, for example, does not need computers to run constantly and, thus, uses a lot less electricity. The only real possible positive to crypto is that banks and governments cannot control your money, which is beneficial for people who live under corrupt governments. Also people that have no access to the traditional finance system can benefit hugely from cryptocurrency.
-That said crypto is still a high risk investment with very little other positive impacts, so only invest if you are a gambler or are a crypto nerd (I have a small amount of Ethereum cause I am a curious bitch).
+That said crypto is still a high risk investment with very little other positive impacts, so only invest if you are a gambler or are a crypto nerd (I have a small amount of Ethereum because I am a curious).
 
 ## My fave: Crowdfunding
 _Risk high, high potential returns, low to moderate difficulty, high impact_
