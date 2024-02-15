@@ -1,4 +1,3 @@
-
 ---
 title: 'Presentations'
 permalink: /Presentations
