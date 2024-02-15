@@ -15,7 +15,7 @@ Presented at:<br>
 - [Netherlands Annual Ecology Meeting 2024](https://www.nern.nl/NAEM2024), Lunteren, the Netherlands
 
 Upcoming:<br>
--[IOBC 2024](https://iobc-wprs.org/meeting/10th-meeting-iobc-wprs-wg-landscape-management-for-functional-biodiversity/), Pisa, Italy (conference paper will be available soon)
+- [IOBC 2024](https://iobc-wprs.org/meeting/10th-meeting-iobc-wprs-wg-landscape-management-for-functional-biodiversity/), Pisa, Italy (conference paper will be available soon)
 
 **Presentation at the European Conference of Entomology in 2023**
 {% include snippets/video.html id="S4ETpu23dck" provider="youtube" video_res="hq2"%}
