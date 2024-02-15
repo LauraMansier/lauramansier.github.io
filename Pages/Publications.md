@@ -23,8 +23,7 @@ Mansier, L. & Van Rijn, P. C. J. (2023). Deliverable D4.2 (D29) A functional Lan
 # Presentations
 
 **Optimal agricultural landscape management for natural pest control** 
-
-By Laura Mansier and Paul C.J. van Rijn
+_By Laura Mansier and Paul C.J. van Rijn_
 
 Presented at:
 
