@@ -1,6 +1,6 @@
 ---
 title: 'Publications'
-subtitle: 'Pre-print and Peer-reviewed'
+subtitle: 'Peer-reviewed and Pre-print'
 permalink: /Publications
 header_type: hero
 header_img: /Pictures/Banner1.png
