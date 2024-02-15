@@ -9,7 +9,7 @@ header_img: /Pictures/Banner1.png
 _By **Laura Mansier** and Paul C.J. van Rijn_
 
 Presented at:<br>
-- European Conference of Entomology 2023, Heraklion, Crete, Greece (see a video of the presentation below) <br>
+- European Conference of Entomology 2023, Heraklion, Crete, Greece (see video below) <br>
 - Entomologen Dag 2023, Ede, the Netherlands <br>
 - Dynamical Systems Applied to Biology and Natural Sciences 2024, Lisbon, Portugal (trip partly funded by the [Amsterdam University Fund](https://www.auf.nl/en/apply-for-a-grant/phd-student/travel-grant-for-phd-students.html)) <br>
 - Netherlands Annual Ecology Meeting 2024, Lunteren, the Netherlands
