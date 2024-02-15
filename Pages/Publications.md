@@ -22,17 +22,14 @@ Mansier, L. & Van Rijn, P. C. J. (2023). Deliverable D4.2 (D29) A functional Lan
 
 # Presentations
 
-**Optimal agricultural landscape management for natural pest control** 
+**Optimal agricultural landscape management for natural pest control** <br>
 _By Laura Mansier and Paul C.J. van Rijn_
 
 Presented at:
 
--European Conference of Entomology 2023, Heraklion, Crete, Greece (see a video of the presentation at the bottom of this page)
-
--Entomologen Dag 2023, Ede, the Netherlands 
-
--Dynamical Systems Applied to Biology and Natural Sciences 2024, Lisbon, Portugal (trip partly fundede by the Amsterdam University Fund)
-
+-European Conference of Entomology 2023, Heraklion, Crete, Greece (see a video of the presentation at the bottom of this page) <br>
+-Entomologen Dag 2023, Ede, the Netherlands <br>
+-Dynamical Systems Applied to Biology and Natural Sciences 2024, Lisbon, Portugal (trip partly fundede by the Amsterdam University Fund) <br>
 -Netherlands Annual Ecology Meeting 2024, Lunteren, the Netherlands
 
 **Presentation at the European Conference of Entomology in 2023**
