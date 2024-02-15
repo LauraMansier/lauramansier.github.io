@@ -100,6 +100,13 @@ navbar:
   - title   : Research # Label
     url     : /Research # url	
   - title   : Publications # Label
+    child   :
+      - title : Publications
+        url   : /Publications
+      - title : Video Abstracts
+        url   : /VideoAbstracts
+      - title : Presentations
+        url   : /Presentations
     url     : /Publications # url	
   - title   : CV
     url     : https://lauramansier.github.io/online-cv/
