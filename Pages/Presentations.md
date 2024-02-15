@@ -5,7 +5,7 @@ header_type: hero
 header_img: /Pictures/Banner1.png
 ---
 
-#Optimal agricultural landscape management for natural pest control
+# Optimal agricultural landscape management for natural pest control
 _By Laura Mansier and Paul C.J. van Rijn_
 
 Presented at:<br>
