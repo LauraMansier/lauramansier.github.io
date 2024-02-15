@@ -27,10 +27,10 @@ _By Laura Mansier and Paul C.J. van Rijn_
 
 Presented at:
 
--European Conference of Entomology 2023, Heraklion, Crete, Greece (see a video of the presentation at the bottom of this page) <br>
--Entomologen Dag 2023, Ede, the Netherlands <br>
--Dynamical Systems Applied to Biology and Natural Sciences 2024, Lisbon, Portugal (trip partly fundede by the Amsterdam University Fund) <br>
--Netherlands Annual Ecology Meeting 2024, Lunteren, the Netherlands
+- European Conference of Entomology 2023, Heraklion, Crete, Greece (see a video of the presentation at the bottom of this page) <br>
+- Entomologen Dag 2023, Ede, the Netherlands <br>
+- Dynamical Systems Applied to Biology and Natural Sciences 2024, Lisbon, Portugal (trip partly fundede by the Amsterdam University Fund) <br>
+- Netherlands Annual Ecology Meeting 2024, Lunteren, the Netherlands
 
 **Presentation at the European Conference of Entomology in 2023**
 {% include snippets/video.html id="S4ETpu23dck" provider="youtube" video_res="hq2"%}
