@@ -104,7 +104,7 @@ navbar:
       - title : Publications
         url   : /Publications
       - title : Video Abstracts
-        url   : /VideoAbstracts
+        url   : /Videoabstracts
       - title : Presentations
         url   : /Presentations
     url     : /Publications # url	
