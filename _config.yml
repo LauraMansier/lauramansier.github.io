@@ -103,7 +103,7 @@ navbar:
     child   :
       - title : Publications
         url   : /Publications
-      - title : Video Abstracts
+      - title : Video abstracts
         url   : /Videoabstracts
       - title : Presentations
         url   : /Presentations
