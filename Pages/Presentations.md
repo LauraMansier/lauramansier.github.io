@@ -6,7 +6,7 @@ header_img: /Pictures/Banner1.png
 ---
 
 # Optimal agricultural landscape management for natural pest control
-_By Laura Mansier and Paul C.J. van Rijn_
+_By **Laura Mansier** and Paul C.J. van Rijn_
 
 Presented at:<br>
 - European Conference of Entomology 2023, Heraklion, Crete, Greece (see a video of the presentation below) <br>
