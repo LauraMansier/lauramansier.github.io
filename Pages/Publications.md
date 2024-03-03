@@ -8,11 +8,11 @@ header_img: /Pictures/Banner1.png
 
 # Peer-reviewed publications
 
-Soon my peer-reviewed publication can be found here.
+Mansier, L & van Rijn, P.C.J. (2024). *Agricultural landscape management for natural pest control* [Manuscript submitted for publication].
 
-# Pre-prints
+# Confererence papers
 
-Soon my pre-prints can be found here.
+Mansier, L & van Rijn, P.C.J. (in press). Population-dynamical model to optimise agricultural landscape management for natural pest control. *IOBC wprs Bulletin*.
 
 # Reports
 
