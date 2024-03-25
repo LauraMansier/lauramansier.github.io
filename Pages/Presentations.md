@@ -15,15 +15,17 @@ Presented at:<br>
 - [Netherlands Annual Ecology Meeting 2024](https://www.nern.nl/NAEM2024), Lunteren, the Netherlands
 - [IOBC-WPRS Working Group Landscape Management for Functional Biodiversity 2024](https://iobc-wprs.org/meeting/10th-meeting-iobc-wprs-wg-landscape-management-for-functional-biodiversity/), Pisa, Italy ([conference paper](https://iobc-wprs.org/product/iobc-wprs-bulletin-vol-170-2024/))
 
+Upcoming:<br>
+Nothing planned for now.
+
+**Presentation at the European Conference of Entomology in 2023**
+{% include snippets/video.html id="S4ETpu23dck" provider="youtube" video_res="hq2"%}
+
 # How to make Video Abstracts
 _By **Laura Mansier** and **Theo Simmons**_
 
 Presented at:<br>
 - [IOBC-WPRS Working Group Landscape Management for Functional Biodiversity 2024](https://iobc-wprs.org/meeting/10th-meeting-iobc-wprs-wg-landscape-management-for-functional-biodiversity/), Pisa, Italy
 
-
 Upcoming:<br>
 Nothing planned for now.
-
-**Presentation at the European Conference of Entomology in 2023**
-{% include snippets/video.html id="S4ETpu23dck" provider="youtube" video_res="hq2"%}
