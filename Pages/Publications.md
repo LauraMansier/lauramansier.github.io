@@ -12,7 +12,7 @@ Mansier, L & van Rijn, P.C.J. (2024). *Agricultural landscape management for nat
 
 # Confererence papers
 
-Mansier, L & van Rijn, P.C.J. (in press). Population-dynamical model to optimise agricultural landscape management for natural pest control. *IOBC wprs Bulletin*.
+Mansier, L & van Rijn, P.C.J. (in press). Population-dynamical model to optimise agricultural landscape management for natural pest control. [*IOBC-WPRS Bulletin Vol. 170, 2024*](https://iobc-wprs.org/product/iobc-wprs-bulletin-vol-170-2024/).
 
 # Reports
 
