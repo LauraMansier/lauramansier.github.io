@@ -18,7 +18,7 @@ Presented at:<br>
 # How to make Video Abstracts
 _By **Laura Mansier** and **Theo Simmons**_
 
-Presentaed at:<br>
+Presented at:<br>
 - [IOBC-WPRS Working Group Landscape Management for Functional Biodiversity 2024](https://iobc-wprs.org/meeting/10th-meeting-iobc-wprs-wg-landscape-management-for-functional-biodiversity/), Pisa, Italy
 
 
