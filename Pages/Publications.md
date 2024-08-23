@@ -8,7 +8,7 @@ header_img: /Pictures/Banner1.png
 
 # Peer-reviewed publications
 
-Mansier, L & van Rijn, P.C.J. (2024). *Agricultural landscape management for natural pest control* [Manuscript submitted for publication].
+Mansier, L & van Rijn, P.C.J. (In press). Agricultural landscape management for natural pest control. *Journal of Applied Ecology*
 
 # Confererence papers
 
