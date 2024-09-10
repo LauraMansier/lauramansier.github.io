@@ -15,6 +15,7 @@ Please reach out if you are interested in working with me for the creation of so
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
+# Videos
 {% include snippets/video.html fileurl="./Scientific_design_map/Buff-tailed bumblebee - Farmland Heroes.mp4" %}
 {% include snippets/video.html fileurl="./Scientific_design_map/Barn owl - Farmland Heroes.mp4" %}
 
