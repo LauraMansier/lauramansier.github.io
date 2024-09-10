@@ -15,7 +15,8 @@ Please reach out if you are interested in working with me for the creation of so
 ./Scientific_design_map/Model_description.png,
 ./Scientific_design_map/Signs_LC.PNG,
 ./Scientific_design_map/definition_LC.PNG,
-./Scientific_design_map/Reasons_LC.PNG" %}
+./Scientific_design_map/Reasons_LC.PNG,
+./Scientific_design_map/VA_workflow.png" %}
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
@@ -30,7 +31,8 @@ Please reach out if you are interested in working with me for the creation of so
 
 {% assign externalgallery = "
 ./Scientific_design_map/Wat_maakt_het_verschil.png,
-./Scientific_design_map/Maak_het_verschil.png" %}
+./Scientific_design_map/Maak_het_verschil.png,
+./Scientific_design_map/Entomologen_dag.png" %}
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
