@@ -12,7 +12,10 @@ Please reach out if you are interested in working with me for the creation of so
 
 {% assign externalgallery = "
 ./Scientific_design_map/Voedselweb-FAB-FORWARD.png,
-./Scientific_design_map/Model_description.png" %}
+./Scientific_design_map/Model_description.png,
+./Scientific_design_map/Signs_LC.png,
+./Scientific_design_map/definition_LC.png,
+./Scientific_design_map/Reasons_LC.png" %}
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
