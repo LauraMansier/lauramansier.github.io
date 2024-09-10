@@ -29,8 +29,8 @@ Please reach out if you are interested in working with me for the creation of so
 # Posters
 
 {% assign externalgallery = "
-./Scientific_design_map/wat_maakt_het_verschil.png,
-./Scientific_design_map/maak_het_verschil.png" %}
+./Scientific_design_map/Wat_maakt_het_verschil.png,
+./Scientific_design_map/Maak_het_verschil.png" %}
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
