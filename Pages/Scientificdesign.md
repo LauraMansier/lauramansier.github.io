@@ -5,7 +5,7 @@ header_type: hero
 header_img: /Pictures/Banner1.png
 ---
 
-Below you can find a selection of the scientific designs I have created, including infographics, visual abstracts, project logos and videos.
+Below you can find a selection of the scientific designs I have created, including infographics, visual abstracts, posters, project logos and videos.
 Please reach out if you are interested in working with me for the creation of something similar.
 
 # Infographics
@@ -23,6 +23,14 @@ Please reach out if you are interested in working with me for the creation of so
 
 {% assign externalgallery = "
 ./Scientific_design_map/Visual_abstract.png" %}
+
+{% include_cached snippets/masonry.html external=externalgallery %}
+
+# Posters
+
+{% assign externalgallery = "
+./Scientific_design_map/wat_maakt_het_verschil.png,
+./Scientific_design_map/maak_het_verschil.png" %}
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
