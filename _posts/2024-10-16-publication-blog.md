@@ -1,6 +1,6 @@
 ---
 header_type: "hero"
-header_img : /Pictures/impact-investing-banner.png
+header_img : /Pictures/Banner1.png
 title: Modelling agricultural landscape complementation for natural pest control
 subtitle: New publication
 tags: [landscape complementation, natural pest control]
@@ -18,3 +18,5 @@ author:
     - url: https://twitter.com/lauramansier
       icon: fab fa-twitter
 ---
+
+
