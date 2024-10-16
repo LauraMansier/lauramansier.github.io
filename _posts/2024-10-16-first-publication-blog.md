@@ -31,7 +31,7 @@ Natural enemies of agricultural pests, such as predatory hoverflies, require var
 
 ## Modelling Natural Pest Control Dynamics
 
-To address these challenges, we developed a model focusing on the interactions between predatory hoverflies (Diptera: Syrphinae) and aphid prey (Homoptera: Aphididae) in multi-habitat landscapes typical of North-Western Europe. The model integrates predator-prey interactions, seasonal resource dynamics, and habitat structures, offering a comprehensive understanding of how landscape composition affects natural pest control.
+To address these challenges, we developed a model focusing on the interactions between predatory hoverflies (Diptera: Syrphinae) and aphid prey (Homoptera: Aphididae) in multi-habitat landscapes typical of North-Western Europe. The model integrates predator-prey interactions and seasonal resource dynamics in different habitats, offering a comprehensive understanding of how landscape composition affects natural pest control.
 
 ## Key Findings from the Model
 
