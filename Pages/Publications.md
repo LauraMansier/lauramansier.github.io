@@ -8,9 +8,9 @@ header_img: /Pictures/Banner1.png
 
 # Peer-reviewed publications
 
-<img src="Pictures/Visual_abstract.png" title="Modelling agricultural landscape complementation for natural pest control" alt="Visual abstract"> 
-
 Mansier, L., & van Rijn, P. C. J. (2024). Modelling agricultural landscape complementation for natural pest control. *Journal of Applied Ecology*, 00, 1–16. [https://doi.org/10.1111/1365-2664.14790](https://doi.org/10.1111/1365-2664.14790)
+
+<img src="Pictures/Visual_abstract.png" title="Visual abstract: Modelling agricultural landscape complementation for natural pest control"> 
 
 # Confererence papers
 
