@@ -38,7 +38,8 @@ Please reach out if you are interested in working with me for the creation of so
 # Project logos
 
 {% assign externalgallery = "
-./Scientific_design_map/FAB-FORWARD.png" %}
+./Scientific_design_map/FAB-FORWARD.png,
+./Scientific_design_map/HyPerB.png" %}
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
