@@ -11,7 +11,8 @@ Illustration is a hobby and not my profession, but do reach out if you would lik
 {% assign externalgallery = "
 ./Illustrations_map/dragon1.png,
 ./Illustrations_map/first_octopus1.png,
-./Illustrations_map/bumblebeebutt.png"%}
+./Illustrations_map/bumblebeebutt.png,
+./Illustrations_map/firefly-light.png"%}
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
