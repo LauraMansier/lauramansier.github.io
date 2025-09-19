@@ -60,7 +60,9 @@ Please reach out if you are interested in working with me for the creation of so
 ./Scientific_design_map/Dissertation/3.jpg,
 ./Scientific_design_map/Dissertation/6.jpg,
 ./Scientific_design_map/Dissertation/9.jpg,
-./Scientific_design_map/Dissertation/12.jpg" %}
+./Scientific_design_map/Dissertation/12.jpg",
+./Scientific_design_map/Dissertation/15.jpg",
+./Scientific_design_map/Dissertation/16.jpg"%}
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
