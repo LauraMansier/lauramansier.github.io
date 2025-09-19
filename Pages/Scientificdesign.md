@@ -43,6 +43,29 @@ Please reach out if you are interested in working with me for the creation of so
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
+# Dissertation
+
+{% assign externalgallery = "
+./Scientific_design_map/Dissertation/1.jpg,
+./Scientific_design_map/Dissertation/2.jpg,
+./Scientific_design_map/Dissertation/3.jpg,
+./Scientific_design_map/Dissertation/4.jpg,
+./Scientific_design_map/Dissertation/5.jpg,
+./Scientific_design_map/Dissertation/6.jpg,
+./Scientific_design_map/Dissertation/7.jpg,
+./Scientific_design_map/Dissertation/8.jpg,
+./Scientific_design_map/Dissertation/9.jpg,
+./Scientific_design_map/Dissertation/10.jpg,
+./Scientific_design_map/Dissertation/11.jpg,
+./Scientific_design_map/Dissertation/12.jpg,
+./Scientific_design_map/Dissertation/13.jpg,
+./Scientific_design_map/Dissertation/14.jpg,
+./Scientific_design_map/Dissertation/15.jpg,
+./Scientific_design_map/Dissertation/16.jpg" %}
+
+{% include_cached snippets/masonry.html external=externalgallery %}
+
+
 # Videos
 
 
