@@ -16,6 +16,6 @@ Illustration is a hobby and not my profession, but do reach out if you would lik
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
-&copy; All rights reserved. Reproduction and dissemination of material presented here for research, educational or other non-commercial purposes are authorised without any prior written permission from the copyright holders provided the source is fully acknowledged. Reproduction of material for sale or other commercial purposes is prohibited.
+&copy; All rights reserved. Reproduction and dissemination of material presented here for research, educational or other non-commercial purposes are authorised with prior written permission from the copyright holders and the source is fully acknowledged. Reproduction of material for sale or other commercial purposes is prohibited.
 
 
