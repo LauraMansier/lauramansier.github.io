@@ -54,11 +54,11 @@ Please reach out if you are interested in working with me for the creation of so
 ./Scientific_design_map/Dissertation/2.jpg,
 ./Scientific_design_map/Dissertation/5.jpg,
 ./Scientific_design_map/Dissertation/8.jpg,
+./Scientific_design_map/Dissertation/11.jpg,
 ./Scientific_design_map/Dissertation/14.jpg,
 ./Scientific_design_map/Dissertation/3.jpg,
 ./Scientific_design_map/Dissertation/6.jpg,
 ./Scientific_design_map/Dissertation/9.jpg,
-./Scientific_design_map/Dissertation/10.jpg,
 ./Scientific_design_map/Dissertation/12.jpg",
 ./Scientific_design_map/Dissertation/15.jpg,
 ./Scientific_design_map/Dissertation/16.jpg" %}
