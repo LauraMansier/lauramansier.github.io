@@ -39,7 +39,8 @@ Please reach out if you are interested in working with me for the creation of so
 
 {% assign externalgallery = "
 ./Scientific_design_map/FAB-FORWARD.png,
-./Scientific_design_map/HyPerB.png" %}
+./Scientific_design_map/HyPerB.png,
+./Scientific_design_map/FAB_FORWARD_logo.png" %}
 
 {% include_cached snippets/masonry.html external=externalgallery %}
 
