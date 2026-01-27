@@ -8,7 +8,7 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  :     #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : Laura Mansier    #default["repository_name"]
+title                   : Dr. Laura Mansier    #default["repository_name"]
 title_separator         :     #default [" | "]
 subtitle                : PostDoc    #default [your-repository-tagline]  
 description             : PostDoc #default [your-repository-tagline]
@@ -21,7 +21,7 @@ timezone                :     #"Europe/Madrid ,see https://jekyllrb.com/docs/con
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
 twitter_site            :     #Avoid @
 author:
-  name                  :  Laura Mansier   # Name Surname Company
+  name                  :  Dr. Laura Mansier   # Name Surname Company
   avatar                :  https://github.com/[LauraMansier].png   # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Wageningen, The Netherlands"   # New York, USA 
   links:                
