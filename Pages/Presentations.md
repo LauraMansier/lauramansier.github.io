@@ -9,13 +9,13 @@ Upcoming:<br>
 Nothing planned for now.
 
 ### Proximity of complementary habitats affects natural pest control
-_By Laura Mansier, Hanna ten Brink, Arne Janssen & Paul C.J. van Rijn_
+_By Laura Mansier, Hanna ten Brink, Arne Janssen & **Paul C.J. van Rijn**_
 
 Presented at:<br>
-- [IOBC-WPRS Working Group Landscape Management for Functional Biodiversity 2026](https://iobc-wprs.org/meeting/lmfb-2026/), Avignon France. (Presented by Paul C.J. van Rijn)
+- [IOBC-WPRS Working Group Landscape Management for Functional Biodiversity 2026](https://iobc-wprs.org/meeting/lmfb-2026/), Avignon France. 
 
 ### Why model farm landscapes for natural pest control?
-_By Laura Mansier, Hanna ten Brink, Arne Janssen & Paul C.J. van Rijn_
+_By **Laura Mansier**, Hanna ten Brink, Arne Janssen & Paul C.J. van Rijn_
 
 Presented at:<br>
 -[Entomologen Dag 2025](https://nev.nl/secties/entomologendag/), Ede, the Netherlands <br>
