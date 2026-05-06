@@ -14,6 +14,8 @@ Mansier, L., & van Rijn, P. C. J. (2024). Modelling agricultural landscape compl
 
 # Confererence papers
 
+Mansier, L., ten Brink, H., Janssen, A. & van Rijn, P.C.J. (2026). Proximity of complementary habitats affects natural pest control. [*IOBC-WPRS Bulletin Vol. 182, 2026*](https://iobc-wprs.org/product/iobc-wprs-bulletin-vol-182-2026/).
+
 Mansier, L & van Rijn, P.C.J. (2024). Population-dynamical model to optimise agricultural landscape management for natural pest control. [*IOBC-WPRS Bulletin Vol. 170, 2024*](https://iobc-wprs.org/product/iobc-wprs-bulletin-vol-170-2024/).
 
 Mansier, L., Nichols, R., Ndlovu, T., Simmons, T. (2024). The what, why and how of Video Abstracts. [*IOBC-WPRS Bulleting Vol. 172, 2024*](https://iobc-wprs.org/product/iobc-wprs-bulletin-vol-172-2024/).
