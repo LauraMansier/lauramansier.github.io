@@ -5,7 +5,28 @@ header_type: hero
 header_img: /Pictures/Banner1.png
 ---
 
-# Optimal agricultural landscape management for natural pest control
+Upcoming:<br>
+Nothing planned for now.
+
+### Proximity of complementary habitats affects natural pest control
+_By Laura Mansier, Hanna ten Brink, Arne Janssen & Paul C.J. van Rijn_
+
+Presented at:<br>
+- [IOBC-WPRS Working Group Landscape Management for Functional Biodiversity 2026](https://iobc-wprs.org/meeting/lmfb-2026/), Avignon France. (Presented by Paul C.J. van Rijn)
+
+### Why model farm landscapes for natural pest control?
+_By Laura Mansier, Hanna ten Brink, Arne Janssen & Paul C.J. van Rijn_
+
+Presented at:<br>
+-[Entomologen Dag 2025](https://nev.nl/secties/entomologendag/), Ede, the Netherlands <br>
+
+### Landscape complementation modelling
+_By **Laura Mansier** and Paul C.J. van Rijn_
+
+Presented at:<br>
+- [Recodo: Transforming Agroecosystems Together](https://www.framework-biodiversity.eu/post/transforming-agroecosystems-together), Virtual, Invited <br>
+
+### Optimal agricultural landscape management for natural pest control
 _By **Laura Mansier** and Paul C.J. van Rijn_
 
 Presented at:<br>
@@ -15,17 +36,14 @@ Presented at:<br>
 - [Netherlands Annual Ecology Meeting 2024](https://www.nern.nl/NAEM2024), Lunteren, the Netherlands <br>
 - [IOBC-WPRS Working Group Landscape Management for Functional Biodiversity 2024](https://iobc-wprs.org/meeting/10th-meeting-iobc-wprs-wg-landscape-management-for-functional-biodiversity/), Pisa, Italy ([conference paper](https://iobc-wprs.org/product/iobc-wprs-bulletin-vol-170-2024/)) <br>
 
-Upcoming:<br>
-Nothing planned for now.
 
 **Presentation at the European Conference of Entomology in 2023**
 {% include snippets/video.html id="S4ETpu23dck" provider="youtube" video_res="hq2"%}
 
-# How to make Video Abstracts
+### How to make Video Abstracts
 _By **Laura Mansier** and **Theo Simmons**_
 
 Presented at:<br>
 - [IOBC-WPRS Working Group Landscape Management for Functional Biodiversity 2024](https://iobc-wprs.org/meeting/10th-meeting-iobc-wprs-wg-landscape-management-for-functional-biodiversity/), Pisa, Italy <br>
 
-Upcoming:<br>
-Nothing planned for now.
+
