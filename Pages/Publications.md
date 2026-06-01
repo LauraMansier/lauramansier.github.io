@@ -12,6 +12,10 @@ Mansier, L., & van Rijn, P. C. J. (2024). Modelling agricultural landscape compl
 
 <img src="Pictures/Visual_abstract.png" title="Visual abstract: Modelling agricultural landscape complementation for natural pest control"> 
 
+# Dissertation
+
+Laura Mansier (2025). The wonderful life of natural enemies: The role of landscape complementation in natural pest control. *University of Amsterdam*. [Link to dissertation](https://dare.uva.nl/id/d9d7a944-450d-4976-af7e-715f5807689e).
+
 # Confererence papers
 
 Mansier, L., ten Brink, H., Janssen, A. & van Rijn, P.C.J. (2026). Proximity of complementary habitats affects natural pest control. [*IOBC-WPRS Bulletin Vol. 182, 2026*](https://iobc-wprs.org/product/iobc-wprs-bulletin-vol-182-2026/).
