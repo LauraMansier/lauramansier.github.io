@@ -15,8 +15,6 @@ author:
       icon: "fab fa-github"
     - url: https://www.linkedin.com/in/laura-mansier/
       icon: "fab fa-linkedin"
-    - url: https://twitter.com/lauramansier
-      icon: fab fa-twitter
 ---
 
 Recently, my first paper was published in the Journal of Applied ecology, named 'Modelling agricultural landscape complementation for natural pest control'. As the name might already suggest we used a mathematical model to study the impact of the agricultural landscape on natural pest control in arable crops. Here, I wanted to give a short overview of our findings and what they could mean for landscape design in arable farming systems. 
